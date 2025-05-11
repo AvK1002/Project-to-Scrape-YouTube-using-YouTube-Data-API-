@@ -1,10 +1,3 @@
-I'll review the content of your uploaded Jupyter Notebook (`YT_analysis_project-checkpoint.ipynb`) and then generate a professional and visually appealing README file based on the code and structure of the project. Let me start by reading the file.
-
-
-Thanks for sharing the notebook. Based on the contents, here's a professional and visually appealing `README.md` draft for your **YouTube Channel Analysis** project:
-
----
-
 # 📊 YouTube Channel Analysis Project
 
 This project leverages the **YouTube Data API v3** to extract and analyze key performance metrics (subscribers, views, video uploads, etc.) from multiple YouTube channels. It provides insights and visualizations for comparing content performance across creators.
